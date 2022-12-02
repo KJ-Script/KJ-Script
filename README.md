@@ -1,6 +1,6 @@
 # 👋 Welcome, I’m Keti
-- 👀 I’m interested in Web development 
-- 🌱 I’m currently learning BackEnd development and  AI
+- 👀 I’m interested in Web and Mobile development 
+- 🌱 I’m currently learning Back-end development and  AI
 - 📫 How to reach me : ketiyohannes@gmail.com
 
 
@@ -42,9 +42,8 @@
 <img align="left" src="https://img.shields.io/badge/Emacs-%237F5AB6.svg?&style=for-the-badge&logo=gnu-emacs&logoColor=white" />
 <img align="left" src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white" />
 <img align="left" src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green" />
-<img align="left" src="https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important" /><br>
-<img align="left" src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white"/>
-<img align="left" src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white"/><br>
+<img align="left" src="https://img.shields.io/badge/VisualStudio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white"/><br><br>
+<img align="left" src="https://img.shields.io/badge/AndroidStudio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white"/><br>
 
 
 ### Languages

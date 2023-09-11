@@ -4,7 +4,7 @@
 - 📫 How to reach me : ketiyohannes@gmail.com
 
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=KJ-Script&show_icons=true&theme=dracula"/> 
+
 <img align="left" width="47%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=KJ-Script&layout=compact&theme=dracula"/> 
 
 ## My stack includes

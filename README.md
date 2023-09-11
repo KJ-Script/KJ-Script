@@ -5,7 +5,7 @@
 
 
 
-<img align="left" width="47%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=KJ-Script&layout=compact&theme=dracula"/> 
+
 
 ## My stack includes
 

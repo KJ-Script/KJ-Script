@@ -1,6 +1,6 @@
 # 👋 Welcome, I’m Keti
 - 👀 I’m interested in Web and Mobile development 
-- 🌱 I’m currently learning Back-end development and  AI
+- 🌱 I’m currently learning ML
 - 📫 How to reach me : ketiyohannes@gmail.com
 
 

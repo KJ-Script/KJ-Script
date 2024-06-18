@@ -1,5 +1,5 @@
 # 👋 Welcome, I’m Keti
-- 👀 I’m interested in Web and Mobile development 
+- 👀 I’m interested in all things development
 - 🌱 I’m currently learning ML
 - 📫 How to reach me : ketiyohannes@gmail.com
 
